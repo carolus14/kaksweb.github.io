@@ -1,0 +1,45 @@
+body {
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+header {
+    background: bisque;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: mediumvioletred;
+    border-radius: 8px;
+    box-shadow: 0 0 10px red(0, 0, 0, o.1);
+}
+
+h2 {
+    color:blue
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background: #333;
+    color: azure;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
